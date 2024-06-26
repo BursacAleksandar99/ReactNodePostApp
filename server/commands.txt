@@ -1,0 +1,10 @@
+npm init
+git init
+npm install express
+npm install cors mysql2
+npm install nodemon
+npm install sequelize sequelize-cli (MORA SVE GLOBALNO -g)
+sequelize init
+
+[nodemon] app crashed - waiting for file changes before starting...  Greska je bila u tome jer se lozinka prilikom kreiranja baze u sql workbench-u nije 
+poklapala sa lozinkom u config.json fajlu!
