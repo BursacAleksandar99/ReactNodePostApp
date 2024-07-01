@@ -8,3 +8,8 @@ sequelize init
 
 [nodemon] app crashed - waiting for file changes before starting...  Greska je bila u tome jer se lozinka prilikom kreiranja baze u sql workbench-u nije 
 poklapala sa lozinkom u config.json fajlu!
+
+ npx create-react-app .
+ npm install axios
+
+ npm install cors
