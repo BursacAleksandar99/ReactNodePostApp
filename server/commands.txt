@@ -13,3 +13,6 @@ poklapala sa lozinkom u config.json fajlu!
  npm install axios
 
  npm install cors
+ npm install react-router-dom
+ npm install formik
+ npm install yup
